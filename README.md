@@ -92,7 +92,8 @@ document.addEventListener('keydown', (e) => {
     if (e.key === 'Enter') {
         checkWeather(searchBox.value);
     }
-});
+}); 
+```
 
 ## Technologies Used
 - HTML
