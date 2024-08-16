@@ -1,5 +1,8 @@
 # Weather App
 
+## Live Demo
+Check out the live demo [here](https://alaa-okasha.github.io/weather-app/).
+
 ## Description
 A simple web application that allows users to check the current weather conditions of any city. The app fetches data from the OpenWeatherMap API and displays the weather details such as temperature, humidity, and wind speed. Users can search for a city and see the corresponding weather information.
 
